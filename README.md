@@ -126,6 +126,6 @@ GasCaribe_Chatbot/
 
 ## 🙌 Author
 
-Developed by **Andrés Fábregas**  
+Developed by **Andrés Fábregas**  and **Jhonatan Maldonado**
 🔗 [Portfolio](https://byandresfabregas.vercel.app/)  
 📫 Feel free to reach out for collaboration or improvements.
